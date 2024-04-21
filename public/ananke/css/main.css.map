@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "H:/School Unity Projects/449Challenge1/build",
+	"sourceRoot": "H:/School Unity Projects/449Challenge1",
 	"sources": [
 		"ananke/css/main.css"
 	],
